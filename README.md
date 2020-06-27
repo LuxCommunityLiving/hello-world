@@ -1,1 +1,3 @@
-# hello-world
+# hello-world 
+This is my first time on github
+dsly dan
